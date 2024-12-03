@@ -1,5 +1,5 @@
 ***Ultimate X Auto Content Publisher: Automated Industry-Specific Content Publisher Using X AI API***
-(https://ibb.co/pKXz7Tf)<p>
+<img src="https://i.ibb.co/gWgT28S/Ultimate.png" alt="Ultimate X Auto Content Poster" border="0"></a><br />
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ibuyrare) 
 
