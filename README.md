@@ -24,5 +24,6 @@ To help you get started, I am working on a beginner-friendly blog that walks you
 
 
 
-Created by @iBuyRare (X)
+Created by @iBuyRare (X))<p>
+[![](https://visitcount.itsvg.in/api?id=xaipublisher&label=App%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
