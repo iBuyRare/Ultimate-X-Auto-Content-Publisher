@@ -6,11 +6,17 @@
 An intelligent bot that generates and posts unique, industry-specific content to X (formerly Twitter) using X AI's API. This script can be easily adapted to generate content for any industry or topic, whether it's cryptocurrency, healthcare, finance, technology, or more. It leverages advanced AI to create engaging, non-repetitive tweets while maintaining authenticity and preventing duplicate content. Features include:
 
 -AI-powered tweet generation using X AI's API
+
 -Automatic duplicate content prevention
+
 -Smart length validation (within X's character limits)
+
 -Error handling and automatic retries
+
 -Secure API integration with both X and X AI
+
 -Topic-focused content generation (currently set to Bitcoin but customizable)
+
 -Automated posting to X platform
 
 
